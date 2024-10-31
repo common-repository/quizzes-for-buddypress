@@ -1,0 +1,170 @@
+# Copyright (C) 2017 Quizzes for BuddyPress
+# This file is distributed under the same license as the Quizzes for BuddyPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quizzes for BuddyPress 0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/quizzes-for-buddypress\n"
+"POT-Creation-Date: 2017-10-30 12:47:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: controllers/actions.php:137
+msgid ""
+"You need to complete the following tests successfully before you can join "
+"this group:"
+msgstr ""
+
+#: controllers/actions.php:148
+msgid "with any of the following results: %s"
+msgstr ""
+
+#: controllers/actions.php:154
+msgid "Go Back"
+msgstr ""
+
+#: controllers/ajax.php:61
+msgid "- Any grade/result -"
+msgstr ""
+
+#. #-#-#-#-#  quizzes-for-buddypress.pot (Quizzes for BuddyPress 0.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: models/basic.php:69
+msgid "Quizzes for BuddyPress"
+msgstr ""
+
+#: models/basic.php:70
+msgid "Settings"
+msgstr ""
+
+#: models/basic.php:71
+msgid "Rules"
+msgstr ""
+
+#: views/main.html.php:2
+msgid "Quiz Connector for BuddyPress"
+msgstr ""
+
+#: views/main.html.php:4
+msgid ""
+"This connector will allow you to specify various rules regarding quizzes and "
+"BuddyPress groups:"
+msgstr ""
+
+#: views/main.html.php:7
+msgid ""
+"Taking tests (with or without specified results) can automatically add user "
+"to the group"
+msgstr ""
+
+#: views/main.html.php:8
+msgid ""
+"A test completion (with or without specified results) may be required to "
+"allow joining or even viewing a group"
+msgstr ""
+
+#: views/main.html.php:9
+msgid "Tests can be made private to selected BuddyPress groups"
+msgstr ""
+
+#: views/main.html.php:10
+msgid "Tests can be streamed into the group feed."
+msgstr ""
+
+#: views/main.html.php:13
+msgid "Integrate With Quiz Plugin:"
+msgstr ""
+
+#: views/main.html.php:16
+msgid "Integrate with <a href=\"%s\" target=\"_blank\">Watu</a>"
+msgstr ""
+
+#: views/main.html.php:17
+msgid "Integrate with <a href=\"%s\" target=\"_blank\">WatuPRO</a>"
+msgstr ""
+
+#: views/main.html.php:18
+msgid "Integrate with <a href=\"%s\" target=\"_blank\">Chained Quiz</a>"
+msgstr ""
+
+#: views/main.html.php:21
+msgid ""
+"Not sure how to integrate? See <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: views/main.html.php:23
+msgid "Save Options"
+msgstr ""
+
+#: views/manage-rules.html.php:2
+msgid "Manage Rules"
+msgstr ""
+
+#: views/manage-rules.html.php:4
+msgid ""
+"Here you can define your BuddyPress group rules in relation to quizzes. You "
+"can add multiple rules for each group."
+msgstr ""
+
+#: views/manage-rules.html.php:7 views/manage-rules.html.php:38
+msgid "Group:"
+msgstr ""
+
+#: views/manage-rules.html.php:12 views/manage-rules.html.php:44
+msgid "Quiz:"
+msgstr ""
+
+#: views/manage-rules.html.php:13 views/manage-rules.html.php:19
+msgid "- select quiz -"
+msgstr ""
+
+#: views/manage-rules.html.php:18 views/manage-rules.html.php:50
+msgid "Grades/Results:"
+msgstr ""
+
+#: views/manage-rules.html.php:21 views/manage-rules.html.php:59
+msgid "Min. percent correct answer:"
+msgstr ""
+
+#: views/manage-rules.html.php:23
+msgid "Add rule"
+msgstr ""
+
+#: views/manage-rules.html.php:25 views/manage-rules.html.php:64
+msgid "Actions & conditions:"
+msgstr ""
+
+#: views/manage-rules.html.php:26 views/manage-rules.html.php:65
+msgid "Automatically add user to the group."
+msgstr ""
+
+#: views/manage-rules.html.php:27 views/manage-rules.html.php:66
+msgid "The rule is required to join the group."
+msgstr ""
+
+#: views/manage-rules.html.php:34
+msgid "Manage Existing Rules"
+msgstr ""
+
+#: views/manage-rules.html.php:51
+msgid "- Any grade -"
+msgstr ""
+
+#: views/manage-rules.html.php:61
+msgid "Save rule"
+msgstr ""
+
+#: views/manage-rules.html.php:62
+msgid "Are you sure?"
+msgstr ""
+
+#: views/manage-rules.html.php:62
+msgid "Delete rule"
+msgstr ""
+
+#: views/manage-rules.html.php:91
+msgid "You must select a quiz."
+msgstr ""
